@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/main/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "Test",
-  "id": "academo-test-panel",
+  "id": "testorgdeleteme-test-panel",
   "info": {
     "keywords": ["panel"],
     "description": "",
     "author": {
-      "name": "Academo"
+      "name": "Esteban Beltran"
     },
     "logos": {
       "small": "img/logo.svg",
